@@ -11,6 +11,5 @@ function repeatString(str, num) {
       return repeatedString;
     }
   }
-
 // Do not edit below this line
 module.exports = repeatString;
